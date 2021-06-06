@@ -37,7 +37,7 @@ class Manager (Employee):
 
 #print(help(Developer))
 dev_1= Developer('subash', 'Humagain', 50000, 'python')
-dev_2= Developer('Test', 'User', 60000, 'java')
+dev_2= Developer('Test', 'User', 80000, 'java')
 # mgr_1.add_emp(dev_2)
 # mgr_1.remove_emp(dev_1)
 
